@@ -233,6 +233,8 @@ SSI is the audit layer in a composable governance stack. Each layer is independe
 | **[DSI](https://github.com/dgp-standard/dsi)** | How to measure — scoring formula, verdict taxonomy, action classification | [dgp-standard/dsi](https://github.com/dgp-standard/dsi) |
 | **SSI** | How to prove — hash-chained records, cryptographic provenance, tamper detection | This repository |
 
+Reference SDK: [dgp-standard/ssi-chain](https://github.com/dgp-standard/ssi-chain) — Standalone TypeScript implementation of SSI hash-chained audit trails.
+
 No layer requires another. Each adds a dimension of governance assurance.
 
 ---

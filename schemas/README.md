@@ -370,7 +370,7 @@ ajv validate -s verification-report.schema.json -d my-report.json
 
 ## Questions?
 
-**Schema questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
+**Schema questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi/discussions)  
 **Verification tooling:** See [ROADMAP.md](../ROADMAP.md) for planned `ssi-verify` CLI  
 **Compliance certification:** See [COMPLIANCE.md](../COMPLIANCE.md) for certification criteria
 

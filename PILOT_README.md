@@ -19,7 +19,7 @@ By the end of this guide, you will:
 
 **Time commitment:** 1 hour (plus optional staging deployment)  
 **Prerequisites:** Docker, Node.js 18+, basic API testing skills  
-**Support:** Open an issue at [github.com/dgp-standard/ssi-protocol-oss/issues](https://github.com/dgp-standard/ssi-protocol-oss/issues)
+**Support:** Open an issue at [github.com/dgp-standard/ssi/issues](https://github.com/dgp-standard/ssi/issues)
 
 ---
 
@@ -43,8 +43,8 @@ By the end of this guide, you will:
 ### 1.1 Clone the Repository
 
 ```bash
-git clone https://github.com/dgp-standard/ssi-protocol-oss.git
-cd ssi-protocol-oss
+git clone https://github.com/dgp-standard/ssi.git
+cd ssi
 ```
 
 ### 1.2 Configure Environment Variables
@@ -697,8 +697,8 @@ We want to hear from you:
 3. **What's blocking adoption?**
 
 **Contact:**
-- Open an issue: [github.com/dgp-standard/ssi-protocol-oss/issues](https://github.com/dgp-standard/ssi-protocol-oss/issues)
-- Discussions: [github.com/dgp-standard/ssi-protocol-oss/discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)
+- Open an issue: [github.com/dgp-standard/ssi/issues](https://github.com/dgp-standard/ssi/issues)
+- Discussions: [github.com/dgp-standard/ssi/discussions](https://github.com/dgp-standard/ssi/discussions)
 
 **If you want to go deeper:**
 - Read `docs/WHY_SSI.md` (problem/solution narrative)

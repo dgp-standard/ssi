@@ -65,7 +65,7 @@ The protocol authors maintain a reference governance implementation that demonst
 
 ## Community Implementations
 
-Third-party SSI-compliant implementations can be listed on the [Community Implementations](https://github.com/dgp-standard/ssi-protocol-oss/wiki/Community-Implementations) wiki page (to be established).
+Third-party SSI-compliant implementations can be listed on the [Community Implementations](https://github.com/dgp-standard/ssi/wiki/Community-Implementations) wiki page (to be established).
 
 To register an implementation:
 1. Pass Level 1 compliance tests

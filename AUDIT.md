@@ -691,9 +691,9 @@ Changes require:
 
 ## 15. Contact
 
-**Cryptographic Questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
+**Cryptographic Questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi/discussions)  
 **Forensic Analysis Support:** Engage certified SSI auditors  
-**Tool Bugs:** [GitHub Issues](https://github.com/dgp-standard/ssi-protocol-oss/issues)
+**Tool Bugs:** [GitHub Issues](https://github.com/dgp-standard/ssi/issues)
 
 ---
 

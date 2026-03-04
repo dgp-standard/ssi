@@ -183,8 +183,8 @@ Closes #123
 **Setup:**
 ```bash
 # Clone the repository
-git clone https://github.com/dgp-standard/ssi-protocol-oss.git
-cd ssi-protocol-oss
+git clone https://github.com/dgp-standard/ssi.git
+cd ssi
 
 # Install dependencies
 npm install
@@ -214,8 +214,8 @@ cd reference/kernel && npm start
 
 ## Questions?
 
-**Implementation questions:** [GitHub Issues](https://github.com/dgp-standard/ssi-protocol-oss/issues)  
-**RFC proposals:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
+**Implementation questions:** [GitHub Issues](https://github.com/dgp-standard/ssi/issues)  
+**RFC proposals:** [GitHub Discussions](https://github.com/dgp-standard/ssi/discussions)  
 **Security:** See [SECURITY.md](SECURITY.md)
 
 ---

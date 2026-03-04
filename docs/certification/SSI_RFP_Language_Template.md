@@ -205,7 +205,7 @@ See [SSI_Evidence_Bundle_Spec.md](SSI_Evidence_Bundle_Spec.md) for standardized 
 
 **ssi-verify CLI:**  
 - Open-source verification tool
-- Repository: https://github.com/dgp-standard/ssi-protocol-oss/tools/ssi-verify
+- Repository: https://github.com/dgp-standard/ssi/tools/ssi-verify
 - Installation: `npm install -g @ssi-protocol/ssi-verify`
 - Usage: `ssi-verify <chain.jsonl>`
 
@@ -461,7 +461,7 @@ After customization, verify:
 > - Support independent third-party verification
 >
 > **Key References:**
-> - Protocol Specification: https://github.com/dgp-standard/ssi-protocol-oss
+> - Protocol Specification: https://github.com/dgp-standard/ssi
 > - Verification Checklist: docs/certification/SSI_Verification_Checklist.md
 > - Evidence Bundle Spec: docs/certification/SSI_Evidence_Bundle_Spec.md
 
@@ -1002,7 +1002,7 @@ After customization, verify:
 > **SECTION X: SSI PROTOCOL CONFORMANCE REQUIREMENTS**
 >
 > **X.1. Overview**  
-> The proposed AI system shall conform to the Sovereign Synthetic Intelligence (SSI) Protocol Specification version 1.0 or higher, as documented at https://github.com/dgp-standard/ssi-protocol-oss. SSI conformance enables independent verification of AI decision integrity, governance transparency, and audit trail tamper-evidence.
+> The proposed AI system shall conform to the Sovereign Synthetic Intelligence (SSI) Protocol Specification version 1.0 or higher, as documented at https://github.com/dgp-standard/ssi. SSI conformance enables independent verification of AI decision integrity, governance transparency, and audit trail tamper-evidence.
 >
 > **X.2. Mandatory Technical Requirements**  
 > Vendor's solution SHALL:

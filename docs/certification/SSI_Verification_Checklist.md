@@ -722,7 +722,7 @@ Verification is INCONCLUSIVE if:
 
 **Required Tool:** `ssi-verify` CLI  
 **Minimum Version:** 1.0.0  
-**Repository:** https://github.com/dgp-standard/ssi-protocol-oss/tools/ssi-verify
+**Repository:** https://github.com/dgp-standard/ssi/tools/ssi-verify
 
 **Version Check:**
 ```bash

@@ -223,6 +223,20 @@ Changes to invariants require:
 
 ---
 
+## 10. Companion Standards
+
+SSI is the audit layer in a composable governance stack. Each layer is independent and can be adopted alone.
+
+| Standard | Purpose | Repository |
+|----------|---------|------------|
+| **[PNGE](https://github.com/dgp-standard/pnge)** | How to govern — authority hierarchy, refusal semantics, protocol supremacy | [dgp-standard/pnge](https://github.com/dgp-standard/pnge) |
+| **[DSI](https://github.com/dgp-standard/dsi)** | How to measure — scoring formula, verdict taxonomy, action classification | [dgp-standard/dsi](https://github.com/dgp-standard/dsi) |
+| **SSI** | How to prove — hash-chained records, cryptographic provenance, tamper detection | This repository |
+
+No layer requires another. Each adds a dimension of governance assurance.
+
+---
+
 ## Appendix A: Terminology
 
 - **Agent:** An autonomous or semi-autonomous system making decisions

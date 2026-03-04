@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jtjr86
+ * Copyright 2025 dgp-standard
  * SSI Cloud Track A: Cryptographically signed, hash-chained RPX entries
  *
  * Licensed under the Apache License, Version 2.0 (the \"License\");

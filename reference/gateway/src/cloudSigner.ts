@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jtjr86
+ * Copyright 2025 dgp-standard
  * SSI Cloud Track A: Ed25519 Signing Service (KMS-swappable abstraction)
  * 
  * SECURITY NOTICE (Track A - Option 1):

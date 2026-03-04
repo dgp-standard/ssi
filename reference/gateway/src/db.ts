@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jtjr86
+ * Copyright 2025 dgp-standard
  * SSI Cloud Track A: Database client for PostgreSQL
  */
 import { Pool, PoolClient } from 'pg';

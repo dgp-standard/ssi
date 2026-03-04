@@ -44,8 +44,8 @@ dev = [
 [project.urls]
 Homepage = "https://ssi-protocol.org"
 Documentation = "https://ssi-protocol.org/developers"
-Repository = "https://github.com/Jtjr86/ssi-protocol"
-"Bug Tracker" = "https://github.com/Jtjr86/ssi-protocol/issues"
+Repository = "https://github.com/dgp-standard/ssi-protocol"
+"Bug Tracker" = "https://github.com/dgp-standard/ssi-protocol/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -213,7 +213,7 @@ Changes to invariants require:
 
 ## 9. Contact and Compliance
 
-**Specification Inquiries:** [GitHub Discussions](https://github.com/Jtjr86/ssi-protocol-oss/discussions)  
+**Specification Inquiries:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
 **Compliance Certification:** See [COMPLIANCE.md](COMPLIANCE.md) (to be published)  
 **Security Disclosures:** [SECURITY.md](SECURITY.md)
 

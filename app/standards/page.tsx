@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jtjr86
+ * Copyright 2025 dgp-standard
  *
  * Licensed under the Apache License, Version 2.0 (the \"License\");
  * you may not use this file except in compliance with the License.
@@ -254,7 +254,7 @@ export default function StandardsPage() {
             The protocol is designed for interoperability with existing standards frameworks. Organizations interested in AI governance infrastructure can explore SSI on GitHub.
           </p>
           <Button asChild size="lg" className="bg-ssi-teal hover:bg-teal-600 text-white text-lg px-8">
-            <Link href="https://github.com/Jtjr86/ssi-protocol-oss">View Project on GitHub</Link>
+            <Link href="https://github.com/dgp-standard/ssi-protocol-oss">View Project on GitHub</Link>
           </Button>
         </div>
       </section>

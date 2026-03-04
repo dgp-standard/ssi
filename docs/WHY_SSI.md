@@ -231,7 +231,7 @@ If you want to try it yourself: See `PILOT_README.md`
 - **Storage**: PostgreSQL (transactional guarantees) + optional S3/IPFS archival
 - **Performance**: <10ms per decision write, <50ms per chain verification
 
-**Source code**: [github.com/Jtjr86/ssi-protocol](https://github.com/Jtjr86/ssi-protocol)  
+**Source code**: [github.com/dgp-standard/ssi-protocol](https://github.com/dgp-standard/ssi-protocol)  
 **Test suite**: `npm test` (26/26 tests, EXIT 0)  
 **Docker**: `docker-compose up` (full stack in 30 seconds)
 

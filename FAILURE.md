@@ -721,8 +721,8 @@ Changes require:
 
 ## 15. Contact
 
-**Safety Questions:** [GitHub Discussions](https://github.com/Jtjr86/ssi-protocol-oss/discussions)  
-**Failure Reports:** [GitHub Issues](https://github.com/Jtjr86/ssi-protocol-oss/issues) (security vulnerabilities via private disclosure)  
+**Safety Questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
+**Failure Reports:** [GitHub Issues](https://github.com/dgp-standard/ssi-protocol-oss/issues) (security vulnerabilities via private disclosure)  
 **Certification Guidance:** Engage accredited safety certification bodies (e.g., TÜV, UL)
 
 ---

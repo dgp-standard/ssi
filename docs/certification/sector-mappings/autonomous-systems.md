@@ -844,7 +844,7 @@ This guidance references the following **NORMATIVE** specifications:
 
 ## License
 
-Copyright 2025 Jtjr86
+Copyright 2025 dgp-standard
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

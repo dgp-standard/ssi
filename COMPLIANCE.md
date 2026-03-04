@@ -418,7 +418,7 @@ The SSI Protocol maintainers provide an **open-source compliance test suite**:
 **Usage:**
 
 ```bash
-git clone https://github.com/Jtjr86/ssi-protocol-oss
+git clone https://github.com/dgp-standard/ssi-protocol-oss
 cd ssi-protocol-oss/compliance-tests
 ./run-compliance-suite.sh --implementation <path_to_your_impl>
 ```
@@ -696,13 +696,13 @@ Compliance standards evolve through:
 
 ## 15. Contact and Resources
 
-**Compliance Questions:** [GitHub Discussions](https://github.com/Jtjr86/ssi-protocol-oss/discussions)
+**Compliance Questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)
 
 **Certification Inquiries:** compliance@ssi-protocol.org (to be established)
 
 **Auditor Directory:** [SSI Protocol Website](https://ssi-protocol.org/auditors) (to be published)
 
-**Compliance Test Suite:** [GitHub Repository](https://github.com/Jtjr86/ssi-protocol-oss/tree/main/compliance-tests)
+**Compliance Test Suite:** [GitHub Repository](https://github.com/dgp-standard/ssi-protocol-oss/tree/main/compliance-tests)
 
 **Regulatory Guidance:** Consult legal counsel for jurisdiction-specific requirements
 

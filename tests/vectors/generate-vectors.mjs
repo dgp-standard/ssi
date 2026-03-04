@@ -31,7 +31,7 @@ function generateValidChain(count) {
     const timestamp = new Date(baseTime + i * 60000).toISOString().replace(/\.000Z$/, '.000000Z'); // Microseconds
     const previousHash = i === 0 ? GENESIS_HASH : records[i - 1].record_hash;
     const decisionType = ['authorization.action', 'safety.constraint', 'policy.evaluation'][i % 3]; // Valid enum values
-    const agentId = `dealgo-v1-${i % 3}`;
+    const agentId = `example-agent-v1.${i % 3}`;
     const outcome = ['ALLOW', 'DENY', 'ESCALATE'][i % 3];
     const contextHash = createHash('sha256').update(`context_${i}`).digest('hex');
     const policyVersion = 'policy-v1.0.0';

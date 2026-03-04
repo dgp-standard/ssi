@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jtjr86
+ * Copyright 2025 dgp-standard
  *
  * Licensed under the Apache License, Version 2.0 (the \"License\");
  * you may not use this file except in compliance with the License.
@@ -214,7 +214,7 @@ export default function AboutPage() {
                   Join the SSI community on GitHub to contribute to protocol development, report issues, or participate in discussions.
                 </p>
                 <Button asChild className="w-full bg-ssi-navy hover:bg-blue-900">
-                  <Link href="https://github.com/Jtjr86/ssi-protocol-oss">View on GitHub</Link>
+                  <Link href="https://github.com/dgp-standard/ssi-protocol-oss">View on GitHub</Link>
                 </Button>
               </CardContent>
             </Card>

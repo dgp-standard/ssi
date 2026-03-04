@@ -7,8 +7,8 @@
 
 ## Reporting Security Vulnerabilities
 
-**Preferred Method:** [GitHub Security Advisories](https://github.com/YOUR_ORG/ssi-protocol-oss/security/advisories)  
-**Alternative:** [GitHub Discussions (Security Category)](https://github.com/YOUR_ORG/ssi-protocol-oss/discussions)
+**Preferred Method:** [GitHub Security Advisories](https://github.com/dgp-standard/ssi-protocol-oss/security/advisories)  
+**Alternative:** [GitHub Discussions (Security Category)](https://github.com/dgp-standard/ssi-protocol-oss/discussions)
 
 **What to Include:**
 - Description of the vulnerability
@@ -108,7 +108,7 @@ Reference implementations undergo:
 
 ## Questions?
 
-Security questions about SSI Protocol: [GitHub Discussions](https://github.com/YOUR_ORG/ssi-protocol-oss/discussions)  
-Vulnerability reports: [GitHub Security Advisories](https://github.com/YOUR_ORG/ssi-protocol-oss/security/advisories)
+Security questions about SSI Protocol: [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
+Vulnerability reports: [GitHub Security Advisories](https://github.com/dgp-standard/ssi-protocol-oss/security/advisories)
 
 **This security policy is non-normative. Security requirements for SSI compliance are defined in [AUDIT.md](AUDIT.md) and [FAILURE.md](FAILURE.md).**

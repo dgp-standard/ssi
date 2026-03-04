@@ -81,7 +81,7 @@ Verify `.env` is in `.gitignore`:
 Set env vars in Gateway's PowerShell window **before** `npm start`:
 
 ```powershell
-cd c:\Users\betsy\ssi-protocol-existing\reference\gateway
+cd ./reference\gateway
 
 $env:DATABASE_URL='postgres://ssi_user:ssi_password@localhost:5432/ssi_cloud'
 $env:SIGNING_SEED='INSECURE_DEV_SEED'

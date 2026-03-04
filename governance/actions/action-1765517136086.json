@@ -3,8 +3,8 @@
   "action": "approve_proposal",
   "proposal_id": "PROPOSAL-TEST-CLOSURE",
   "envelope_hash": "d6c70aa2ae15ba55105ae6dc3d23328f8e58bc9b59ffc3a30ce04080e94f9185",
-  "envelope_path": "C:\\Users\\betsy\\ssi-protocol-existing\\reference\\kernel\\envelopes\\staging\\trading-safety.v0.2.5.json",
-  "archived_to": "C:\\Users\\betsy\\ssi-protocol-existing\\governance\\policy-proposals\\archived\\PROPOSAL-TEST-CLOSURE.json",
+  "envelope_path": "./reference/kernel/envelopes/staging/trading-safety.v0.2.5.json",
+  "archived_to": "./governance/policy-proposals/archived/PROPOSAL-TEST-CLOSURE.json",
   "approved_by": "cli-operator",
   "changes_applied": [
     {

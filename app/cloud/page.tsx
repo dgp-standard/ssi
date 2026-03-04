@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jtjr86
+ * Copyright 2025 dgp-standard
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -305,12 +305,12 @@ export default function CloudPage() {
                 size="lg"
                 className="bg-ssi-teal hover:bg-teal-600 text-white text-lg px-8 py-6"
               >
-                <Link href="https://github.com/Jtjr86/ssi-protocol-oss/blob/main/PILOT_README.md" target="_blank">
+                <Link href="https://github.com/dgp-standard/ssi-protocol-oss/blob/main/PILOT_README.md" target="_blank">
                   View Deployment Guide <ArrowRight className="ml-2" size={20} />
                 </Link>
               </Button>
               <p className="text-sm text-white/70 mt-4">
-                Or reach out via <a href="https://github.com/Jtjr86/ssi-protocol-oss/issues" className="underline" target="_blank" rel="noopener noreferrer">GitHub Issues</a> to discuss
+                Or reach out via <a href="https://github.com/dgp-standard/ssi-protocol-oss/issues" className="underline" target="_blank" rel="noopener noreferrer">GitHub Issues</a> to discuss
               </p>
             </div>
           </div>

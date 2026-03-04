@@ -457,7 +457,7 @@ Changes require:
 
 ## 13. Contact and Clarifications
 
-**Ontological Questions:** [GitHub Discussions](https://github.com/Jtjr86/ssi-protocol-oss/discussions)  
+**Ontological Questions:** [GitHub Discussions](https://github.com/dgp-standard/ssi-protocol-oss/discussions)  
 **Legal Interpretations:** Consult with legal counsel; this document is technical guidance, not legal advice  
 **Implementation Support:** See reference implementations (Kernel, Gateway, DeAlgo)
 

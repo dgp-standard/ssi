@@ -38,19 +38,14 @@ RPX record management, hash chain verification, and audit interfaces.
 
 ---
 
-## DeAlgo
+## Example Governance Implementation
 
-**DeAlgo is a reference governance implementation authored by the creators of the SSI Protocol.**
-
-DeAlgo demonstrates advanced governance patterns including:
-- Reflection-first decision processing
-- Survival-aware gating
+The protocol authors maintain a reference governance implementation that demonstrates advanced patterns including:
 - Human authority escalation workflows
 - Cryptographic linkage to SSI audit trails
+- Multi-layer policy evaluation
 
-**Location:** See [ssi-protocol-existing repository](https://github.com/Jtjr86/ssi-protocol-existing) for implementation examples.
-
-**Note:** DeAlgo builds on SSI Protocol but is not part of the constitutional standard. It demonstrates how sophisticated governance can be implemented while maintaining SSI compliance.
+**Note:** Advanced governance implementations build on SSI Protocol but are not part of the constitutional standard. They demonstrate how sophisticated governance can be implemented while maintaining SSI compliance.
 
 ---
 
@@ -70,7 +65,7 @@ DeAlgo demonstrates advanced governance patterns including:
 
 ## Community Implementations
 
-Third-party SSI-compliant implementations can be listed on the [Community Implementations](https://github.com/Jtjr86/ssi-protocol-oss/wiki/Community-Implementations) wiki page (to be established).
+Third-party SSI-compliant implementations can be listed on the [Community Implementations](https://github.com/dgp-standard/ssi-protocol-oss/wiki/Community-Implementations) wiki page (to be established).
 
 To register an implementation:
 1. Pass Level 1 compliance tests

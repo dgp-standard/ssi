@@ -250,7 +250,7 @@ Web UI for visual verification:
 
 ## Quote
 
-> "ssi-verify = truth engine that makes DeAlgo credible at trillion-scale. DeAlgo proves capability. SSI proves governance, evidence, liability-grade integrity."
+> "ssi-verify is the verification engine that makes SSI credible at scale. Implementations prove capability. SSI proves governance, evidence, and liability-grade integrity."
 
 This is the **standard instrument** that stops SSI being a concept and makes it a measurable reality.
 
@@ -261,7 +261,7 @@ This is the **standard instrument** that stops SSI being a concept and makes it 
 All files created, dependencies installed, TypeScript compiled. Ready to:
 
 ```bash
-cd c:\Users\betsy\ssi-protocol-oss
+cd .
 git add tools/ssi-verify
 git commit -m "feat(tools): Add ssi-verify CLI for independent chain verification
 

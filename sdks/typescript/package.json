@@ -22,12 +22,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jtjr86/ssi-protocol.git",
+    "url": "https://github.com/dgp-standard/ssi-protocol.git",
     "directory": "sdks/typescript"
   },
   "homepage": "https://ssi-protocol.org",
   "bugs": {
-    "url": "https://github.com/Jtjr86/ssi-protocol/issues"
+    "url": "https://github.com/dgp-standard/ssi-protocol/issues"
   },
   "files": [
     "dist",

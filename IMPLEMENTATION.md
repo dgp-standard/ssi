@@ -22,7 +22,7 @@ Read the five constitutional documents in order:
 
 ```bash
 # Clone repository
-git clone https://github.com/Jtjr86/ssi-protocol-oss.git
+git clone https://github.com/dgp-standard/ssi-protocol-oss.git
 cd ssi-protocol-oss
 
 # Start SSI Gateway

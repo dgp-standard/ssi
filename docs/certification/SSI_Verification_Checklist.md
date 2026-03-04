@@ -722,7 +722,7 @@ Verification is INCONCLUSIVE if:
 
 **Required Tool:** `ssi-verify` CLI  
 **Minimum Version:** 1.0.0  
-**Repository:** https://github.com/Jtjr86/ssi-protocol-oss/tools/ssi-verify
+**Repository:** https://github.com/dgp-standard/ssi-protocol-oss/tools/ssi-verify
 
 **Version Check:**
 ```bash
@@ -1004,7 +1004,7 @@ Schemas are versioned independently from this checklist. Verification MUST use s
 
 ## License
 
-Copyright 2025 Jtjr86
+Copyright 2025 dgp-standard
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

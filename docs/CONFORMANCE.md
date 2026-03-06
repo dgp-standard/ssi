@@ -1,11 +1,11 @@
 # SSI Protocol Conformance Guide
 
-**Version:** 0.3.1  
-**Status:** Reference Implementation Available  
+**Version:** 1.0
+**Status:** Stable
 **Purpose:** Self-validation for implementers
 
-> ⚠️ **NOTE**: No certification authority exists. This guide is for self-assessment only.  
-> Future certification programs described herein are non-operational design concepts.
+> **Normative Reference:** This guide is supplementary. The authoritative protocol definition is [`/spec/SSI-v1.0.md`](/spec/SSI-v1.0.md).
+> No third-party certification authority is currently operational. This guide is for self-assessment only.
 
 ---
 
@@ -106,7 +106,7 @@ Adds formal verification + redundancy + certified components.
 ## Validation Process
 
 ### Step 1: Review Specification
-Read `/spec/` directory for authoritative protocol definition.
+Read [`/spec/SSI-v1.0.md`](/spec/SSI-v1.0.md) — the authoritative protocol definition.
 
 ### Step 2: Run Reference Runtime
 Compare your implementation against reference behavior.
@@ -273,6 +273,7 @@ For technical questions about conformance:
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 1.0 | Mar 2026 | Promoted to stable; aligned with SSI Protocol v1.0 spec |
 | 0.3.1 | Dec 2024 | Initial conformance guide |
 
 ---

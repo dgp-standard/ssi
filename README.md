@@ -1,4 +1,4 @@
-# SSI Protocol (Self-Sovereign Infrastructure)
+# SSI Protocol (Sovereign Synthetic Intelligence™)
 
 [![Version](https://img.shields.io/badge/version-1.0.0--invariant-blue.svg)](https://github.com/dgp-standard/ssi/releases)
 [![Status](https://img.shields.io/badge/status-constitutional%20standard-green.svg)](https://github.com/dgp-standard/ssi)
@@ -157,5 +157,5 @@ See [LICENSE](LICENSE) for full terms.
 
 ---
 
-**SSI Protocol is a constitutional standard for AI audit infrastructure.**  
+**SSI Protocol — Sovereign Synthetic Intelligence™ — is a constitutional standard for AI audit infrastructure.**
 **Implementations can be built by anyone. Trust is mathematical, not claimed.**
